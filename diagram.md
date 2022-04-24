@@ -1,10 +1,10 @@
-
+# Database Example
 
 ```mermaid
 flowchart LR
     id1[(Database)]
 ```
-
+# Network Diagram Example
 
 ```mermaid
 graph TB
